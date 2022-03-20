@@ -1,5 +1,6 @@
 body {
-  background-color: indianred;
+  background-image: url("/shorty.jpg");
+  background-size: cover;
   color: whitesmoke;
 }
 
